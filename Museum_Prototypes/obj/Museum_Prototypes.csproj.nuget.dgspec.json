@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HAdams20\\source\\repos\\Museum_Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj": {}
+    "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HAdams20\\source\\repos\\Museum_Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj": {
+    "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HAdams20\\source\\repos\\Museum_Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj",
+        "projectUniqueName": "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj",
         "projectName": "Museum_Prototypes",
-        "projectPath": "C:\\Users\\HAdams20\\source\\repos\\Museum_Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj",
-        "packagesPath": "C:\\Users\\HAdams20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HAdams20\\source\\repos\\Museum_Prototypes\\Museum_Prototypes\\obj\\",
+        "projectPath": "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj",
+        "packagesPath": "C:\\Users\\MAnderson18\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HAdams20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MAnderson18\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
