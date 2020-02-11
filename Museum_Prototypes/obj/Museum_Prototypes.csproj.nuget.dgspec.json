@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj": {}
+    "C:\\Users\\MAnderson18\\source\\repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj": {
+    "C:\\Users\\MAnderson18\\source\\repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj",
+        "projectUniqueName": "C:\\Users\\MAnderson18\\source\\repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj",
         "projectName": "Museum_Prototypes",
-        "projectPath": "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj",
+        "projectPath": "C:\\Users\\MAnderson18\\source\\repos\\Prototypes\\Museum_Prototypes\\Museum_Prototypes.csproj",
         "packagesPath": "C:\\Users\\MAnderson18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAnderson18\\Source\\Repos\\Prototypes\\Museum_Prototypes\\obj\\",
+        "outputPath": "C:\\Users\\MAnderson18\\source\\repos\\Prototypes\\Museum_Prototypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAnderson18\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
