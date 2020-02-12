@@ -117,3 +117,4 @@ C:\Users\HAdams20\source\repos\Museum_Prototypes\Museum_Prototypes\obj\Debug\net
 C:\Users\HAdams20\source\repos\Museum_Prototypes\Museum_Prototypes\obj\Debug\netcoreapp3.1\Museum_Prototypes.dll
 C:\Users\HAdams20\source\repos\Museum_Prototypes\Museum_Prototypes\obj\Debug\netcoreapp3.1\Museum_Prototypes.pdb
 C:\Users\HAdams20\source\repos\Museum_Prototypes\Museum_Prototypes\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+C:\Users\HAdams20\source\repos\Museum_Prototypes\Museum_Prototypes\obj\Debug\netcoreapp3.1\Razor\Views\Search\Index.cshtml.g.cs
